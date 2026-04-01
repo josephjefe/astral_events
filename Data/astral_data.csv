@@ -555,7 +555,7 @@ full_date,illumination,moon_group,moon_age,days_until_new_moon,days,type,title,t
 2026-07-03,0.84,21,20,10,NA,NA,NA,NA
 2026-07-04,0.76,21,21,9,NA,NA,NA,NA
 2026-07-05,0.67,21,22,8,NA,NA,NA,NA
-2026-07-06,0.57,21,23,7,NA,NA,NA,NA
+2026-07-06,0.57,21,23,7,Jul 6,other,Earth at Aphelion,"At around 17:30 UTC, the Earth will reach aphelion—the point in its orbit farthest from the Sun."
 2026-07-07,0.46,21,24,6,NA,NA,NA,NA
 2026-07-08,0.35,21,25,5,NA,NA,NA,NA
 2026-07-09,0.24,21,26,4,NA,NA,NA,NA
@@ -563,7 +563,7 @@ full_date,illumination,moon_group,moon_age,days_until_new_moon,days,type,title,t
 2026-07-11,0.07,21,28,2,NA,NA,NA,NA
 2026-07-12,0.02,21,29,1,NA,NA,NA,NA
 2026-07-13,0,22,1,29,NA,NA,NA,NA
-2026-07-14,0.01,22,2,28,NA,NA,NA,NA
+2026-07-14,0.01,22,2,28,Jul 14,other,New Moon,July’s New Moon comes at 09:43 UTC on July 14. The period around New Moon can be a good time to look at the night sky—without a bright Moon around to lighten the sky.
 2026-07-15,0.05,22,3,27,NA,NA,NA,NA
 2026-07-16,0.11,22,4,26,NA,NA,NA,NA
 2026-07-17,0.19,22,5,25,NA,NA,NA,NA
@@ -578,7 +578,7 @@ full_date,illumination,moon_group,moon_age,days_until_new_moon,days,type,title,t
 2026-07-26,0.95,22,14,16,NA,NA,NA,NA
 2026-07-27,0.98,22,15,15,NA,NA,NA,NA
 2026-07-28,1,22,16,14,NA,NA,NA,NA
-2026-07-29,1,22,17,13,NA,NA,NA,NA
+2026-07-29,1,22,17,13,Jul 29,other,Buck Moon,"July’s Full Moon is known as the Buck Moon, signifying the new antlers that emerge on a deer buck’s forehead around this time. This year, it falls at 14:35 UTC on July 29."
 2026-07-30,0.98,22,18,12,NA,NA,NA,NA
 2026-07-31,0.93,22,19,11,NA,NA,NA,NA
 2026-08-01,0.87,22,20,10,NA,NA,NA,NA
