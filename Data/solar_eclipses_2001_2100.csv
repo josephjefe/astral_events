@@ -1,0 +1,225 @@
+catalog_number,date_la,time_la,delta_t_s,luna_num,saros_num,eclipse_type,qle,gamma,eclipse_mag,latitude,longitude,sun_alt_deg,path_width_km,central_duration_s,eclipse_type_long,eclipse_desc,distance_to_ca_km,eclipse_visibility_ca,central_duration_text
+09511,2001-06-21,05:04:46,64,18,127,T,-p,-0.5701,1.0495,-11,3,55,200,297,Total,The Moon completely covers the Sun.,13609.591275006123,Not Visible in California,4m 57s
+09512,2001-12-14,12:53:01,64,24,132,A,-n,0.4089,0.9681,1,-131,66,126,233,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",4152.769851280542,Partially Visible in California,3m 53s
+09513,2002-06-10,16:45:22,64,30,137,A,nn,0.1993,0.9962,35,-179,78,13,23,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5281.6684452976215,Not Visible in California,0m 23s
+09514,2002-12-03,23:32:16,64,36,142,T,n-,-0.302,1.0244,-39,60,72,87,124,Total,The Moon completely covers the Sun.,19762.82086415586,Not Visible in California,2m 4s
+09515,2003-05-30,21:09:22,64,42,147,An,t-,0.996,0.9384,67,-24,3,NA,217,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",6511.797967880393,Not Visible in California,3m 37s
+09516,2003-11-23,14:50:22,64,48,152,T,t-,-0.9638,1.0379,-73,88,15,495,117,Total,The Moon completely covers the Sun.,15711.857102358004,Not Visible in California,1m 57s
+09517,2004-04-19,06:35:05,65,53,119,P,-t,-1.1335,0.7367,-62,44,0,NA,NA,Partial,The Moon partially covers the Sun.,16985.16823794389,Not Visible in California,NA
+09518,2004-10-13,20:00:23,65,59,124,P,-t,1.0348,0.9282,61,-154,0,NA,NA,Partial,The Moon partially covers the Sun.,3614.263002161689,Partially Visible in California,NA
+09519,2005-04-08,13:36:51,65,65,129,H,-n,-0.3473,1.0074,-11,-119,70,27,42,Hybrid,A rare eclipse that appears total in some locations and annular in others.,5312.884480432229,Not Visible in California,0m 42s
+09520,2005-10-03,03:32:47,65,71,134,A,-p,0.3306,0.9576,13,29,71,162,272,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",13567.574285131437,Not Visible in California,4m 32s
+09521,2006-03-29,02:12:23,65,77,139,T,n-,0.3843,1.0515,23,17,67,184,247,Total,The Moon completely covers the Sun.,11949.687788959292,Not Visible in California,4m 7s
+09522,2006-09-22,04:41:16,65,83,144,A,p-,-0.4062,0.9352,-21,-9,66,261,429,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",13164.06523059464,Not Visible in California,7m 9s
+09523,2007-03-18,19:32:57,65,89,149,P,t-,1.0728,0.8756,61,55,0,NA,NA,Partial,The Moon partially covers the Sun.,9130.793633091811,Not Visible in California,NA
+09524,2007-09-11,05:32:24,66,95,154,P,t-,-1.1255,0.7507,-61,-90,0,NA,NA,Partial,The Moon partially covers the Sun.,11195.659837813864,Not Visible in California,NA
+09525,2008-02-06,19:56:10,66,100,121,A,-t,-0.957,0.965,-68,-150,16,444,132,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",11927.4827616854,Not Visible in California,2m 12s
+09526,2008-08-01,03:22:12,66,106,126,T,-p,0.8307,1.0394,66,72,34,237,147,Total,The Moon completely covers the Sun.,8544.509975079836,Not Visible in California,2m 27s
+09527,2009-01-25,23:59:45,66,112,131,A,-n,-0.282,0.9282,-34,70,73,280,474,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",19107.676797482938,Not Visible in California,7m 54s
+09528,2009-07-21,19:36:25,66,118,136,T,nn,0.0698,1.0799,24,144,86,258,399,Total,The Moon completely covers the Sun.,8986.05693024822,Not Visible in California,6m 39s
+09529,2010-01-14,23:07:39,67,124,141,A,p-,0.4002,0.919,2,69,66,333,668,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",15616.14964227536,Not Visible in California,11m 8s
+09530,2010-07-11,12:34:38,67,130,146,T,p-,-0.6788,1.058,-20,-122,47,259,320,Total,The Moon completely covers the Sun.,6319.276925440734,Not Visible in California,5m 20s
+09531,2011-01-04,00:51:42,67,136,151,P,t-,1.0627,0.8576,65,21,0,NA,NA,Partial,The Moon partially covers the Sun.,8187.946780740666,Not Visible in California,NA
+09532,2011-06-01,14:17:18,67,141,118,P,-t,1.213,0.601,68,47,0,NA,NA,Partial,The Moon partially covers the Sun.,8308.919881051632,Not Visible in California,NA
+09533,2011-07-01,01:39:30,67,142,156,Pb,t-,-1.4917,0.0971,-65,29,0,NA,NA,Partial,The Moon partially covers the Sun.,16256.755296748956,Not Visible in California,NA
+09534,2011-11-24,22:21:24,68,147,123,P,-t,-1.0536,0.9047,-69,-82,0,NA,NA,Partial,The Moon partially covers the Sun.,12156.755801252884,Not Visible in California,NA
+09535,2012-05-20,16:53:54,68,153,128,A,-p,0.4828,0.9439,49,176,61,237,346,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5266.074109429909,Not Visible in California,5m 46s
+09536,2012-11-13,14:12:55,68,159,133,T,-n,-0.3719,1.05,-40,-161,68,179,242,Total,The Moon completely covers the Sun.,9534.997407558216,Not Visible in California,4m 2s
+09537,2013-05-09,17:26:20,68,165,138,A,pn,-0.2694,0.9544,2,175,74,173,363,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7717.207464163994,Not Visible in California,6m 3s
+09538,2013-11-03,04:47:36,68,171,143,H3,n-,0.3272,1.0159,3,-12,71,58,100,Hybrid,A rare eclipse that appears total in some locations and annular in others.,11343.074931377163,Not Visible in California,1m 40s
+09539,2014-04-28,23:04:33,69,177,148,A-,t-,-1,0.9868,-71,131,0,NA,NA,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14544.955629209648,Not Visible in California,NA
+09540,2014-10-23,14:45:39,69,183,153,P,t-,1.0908,0.8114,71,-97,0,NA,NA,Partial,The Moon partially covers the Sun.,4023.0940840106477,Partially Visible in California,NA
+09541,2015-03-20,02:46:47,69,188,120,T,-t,0.9454,1.0445,64,-7,18,463,167,Total,The Moon completely covers the Sun.,7356.373627702918,Not Visible in California,2m 47s
+09542,2015-09-12,23:55:19,69,194,125,P,-t,-1.1004,0.7875,-72,-2,0,NA,NA,Partial,The Moon partially covers the Sun.,14801.053568049625,Not Visible in California,NA
+09543,2016-03-08,17:58:19,70,200,130,T,-n,0.2609,1.045,10,149,75,155,249,Total,The Moon completely covers the Sun.,9483.327774055433,Not Visible in California,4m 9s
+09544,2016-09-01,02:08:02,70,206,135,A,-n,-0.333,0.9736,-11,38,70,100,186,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",16363.61355204773,Not Visible in California,3m 6s
+09545,2017-02-26,06:54:33,70,212,140,A,n-,-0.4578,0.9922,-35,-31,63,31,44,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",12118.421228347957,Not Visible in California,0m 44s
+09546,2017-08-21,11:26:40,70,218,145,T,p-,0.4367,1.0306,37,-88,64,115,160,Total,The Moon completely covers the Sun.,2781.366968193918,Partially Visible in California,2m 40s
+09547,2018-02-15,12:52:33,71,224,150,P,t-,-1.2116,0.5991,-71,1,0,NA,NA,Partial,The Moon partially covers the Sun.,14930.92228733095,Not Visible in California,NA
+09548,2018-07-12,20:02:16,71,229,117,P,-t,-1.3542,0.3365,-68,127,0,NA,NA,Partial,The Moon partially covers the Sun.,14729.61378002503,Not Visible in California,NA
+09549,2018-08-11,02:47:28,71,230,155,P,t-,1.1476,0.7368,70,174,0,NA,NA,Partial,The Moon partially covers the Sun.,5317.11928084596,Partially Visible in California,NA
+09550,2019-01-05,17:42:38,71,235,122,P,-t,1.1417,0.7145,67,154,0,NA,NA,Partial,The Moon partially covers the Sun.,6145.176948827076,Partially Visible in California,NA
+09551,2019-07-02,12:24:07,71,241,127,T,-p,-0.6466,1.0459,-17,-109,50,201,273,Total,The Moon completely covers the Sun.,6079.030199615001,Not Visible in California,4m 33s
+09552,2019-12-25,21:18:53,72,247,132,A,-n,0.4135,0.9701,1,102,66,118,220,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14028.820226805166,Not Visible in California,3m 40s
+09553,2020-06-20,23:41:15,72,253,137,Am,nn,0.1209,0.994,31,80,83,21,38,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",12211.921473561046,Not Visible in California,0m 38s
+09554,2020-12-14,08:14:39,72,259,142,T,n-,-0.2939,1.0254,-40,-68,73,90,130,Total,The Moon completely covers the Sun.,10021.599594217314,Not Visible in California,2m 10s
+09555,2021-06-10,03:43:07,72,265,147,A,t-,0.9152,0.9435,81,-67,23,527,231,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5349.031308843331,Not Visible in California,3m 51s
+09556,2021-12-03,23:34:38,73,271,152,T,p-,-0.9526,1.0367,-77,-46,17,419,114,Total,The Moon completely covers the Sun.,13581.084418188311,Not Visible in California,1m 54s
+09557,2022-04-30,13:42:36,73,276,119,P,-t,-1.1901,0.6396,-62,-71,0,NA,NA,Partial,The Moon partially covers the Sun.,11809.439602926945,Not Visible in California,NA
+09558,2022-10-25,04:01:20,73,282,124,P,-t,1.0701,0.8619,62,77,0,NA,NA,Partial,The Moon partially covers the Sun.,8932.47886705531,Not Visible in California,NA
+09559,2023-04-19,21:17:56,73,288,129,H,-n,-0.3952,1.0132,-10,126,67,49,76,Hybrid,A rare eclipse that appears total in some locations and annular in others.,12854.238895063301,Not Visible in California,1m 16s
+09560,2023-10-14,11:00:41,74,294,134,A,-p,0.3753,0.952,11,-83,68,187,317,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",4633.965944191691,Partially Visible in California,5m 17s
+09561,2024-04-08,11:18:29,74,300,139,T,n-,0.3431,1.0566,25,-104,70,198,268,Total,The Moon completely covers the Sun.,1964.8081323274398,Partially Visible in California,4m 28s
+09562,2024-10-02,11:46:13,74,306,144,A,p-,-0.3509,0.9326,-22,-114,69,266,445,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",6560.53677832599,Not Visible in California,7m 25s
+09563,2025-03-29,03:48:36,75,312,149,P,t-,1.0405,0.9376,61,-77,0,NA,NA,Partial,The Moon partially covers the Sun.,3988.850824292361,Partially Visible in California,NA
+09564,2025-09-21,12:43:04,75,318,154,P,t-,-1.0651,0.855,-61,154,0,NA,NA,Partial,The Moon partially covers the Sun.,13347.085374140484,Not Visible in California,NA
+09565,2026-02-17,04:13:06,75,323,121,A,-t,-0.9743,0.963,-65,87,12,616,140,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",16429.623973271566,Not Visible in California,2m 20s
+09566,2026-08-12,10:47:06,75,329,126,T,-p,0.8977,1.0386,65,-25,26,294,138,Total,The Moon completely covers the Sun.,6549.256657888625,Not Visible in California,2m 18s
+09567,2027-02-06,08:00:48,76,335,131,A,-n,-0.2952,0.9281,-31,-48,73,282,471,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10579.048461285425,Not Visible in California,7m 51s
+09568,2027-08-02,03:07:50,76,341,136,T,nn,0.1421,1.079,26,33,82,258,383,Total,The Moon completely covers the Sun.,12460.77806595461,Not Visible in California,6m 23s
+09569,2028-01-26,07:08:59,76,347,141,A,p-,0.3901,0.9208,3,-52,67,323,627,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7807.585983137041,Not Visible in California,10m 27s
+09570,2028-07-21,19:56:40,77,353,146,T,p-,-0.6056,1.056,-16,127,53,230,310,Total,The Moon completely covers the Sun.,13146.850919464116,Not Visible in California,5m 10s
+09571,2029-01-14,09:13:48,77,359,151,P,t-,1.0553,0.8714,64,-114,0,NA,NA,Partial,The Moon partially covers the Sun.,3048.689716733232,Partially Visible in California,NA
+09572,2029-06-11,21:06:13,77,364,118,P,-t,1.2943,0.4576,67,-66,0,NA,NA,Partial,The Moon partially covers the Sun.,4722.358211616296,Partially Visible in California,NA
+09573,2029-07-11,08:37:19,77,365,156,P,t-,-1.4191,0.2303,-64,-86,0,NA,NA,Partial,The Moon partially covers the Sun.,11584.868472368476,Not Visible in California,NA
+09574,2029-12-05,07:03:58,77,370,123,P,-t,-1.0609,0.8911,-68,136,0,NA,NA,Partial,The Moon partially covers the Sun.,14355.176505120797,Not Visible in California,NA
+09575,2030-05-31,23:29:13,78,376,128,A,-p,0.5626,0.9443,57,80,55,250,321,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",9428.838104724604,Not Visible in California,5m 21s
+09576,2030-11-24,22:51:37,78,382,133,T,-n,-0.3867,1.0468,-44,71,67,169,224,Total,The Moon completely covers the Sun.,18823.804699015865,Not Visible in California,3m 44s
+09577,2031-05-21,00:16:04,78,388,138,A,nn,-0.197,0.9589,9,72,79,152,326,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14787.025658605742,Not Visible in California,5m 26s
+09578,2031-11-14,13:07:31,79,394,143,H,n-,0.3078,1.0106,-1,-138,72,38,68,Hybrid,A rare eclipse that appears total in some locations and annular in others.,4617.644409114349,Partially Visible in California,1m 8s
+09579,2032-05-09,06:26:42,79,400,148,A,t-,-0.9375,0.9957,-51,-7,20,44,22,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14578.884837467018,Not Visible in California,0m 22s
+09580,2032-11-02,22:34:13,79,406,153,P,t-,1.0643,0.8554,70,133,0,NA,NA,Partial,The Moon partially covers the Sun.,6818.872546793116,Partially Visible in California,NA
+09581,2033-03-30,11:02:36,80,411,120,T,-t,0.9778,1.0462,71,-156,11,781,157,Total,The Moon completely covers the Sun.,4353.262606383589,Partially Visible in California,2m 37s
+09582,2033-09-23,06:54:31,80,417,125,P,-t,-1.1583,0.689,-72,-121,0,NA,NA,Partial,The Moon partially covers the Sun.,12096.23002087716,Not Visible in California,NA
+09583,2034-03-20,03:18:45,80,423,130,T,-n,0.2894,1.0458,16,22,73,159,249,Total,The Moon completely covers the Sun.,12887.739596654128,Not Visible in California,4m 9s
+09584,2034-09-12,09:19:28,81,429,135,A,-p,-0.3936,0.9736,-18,-73,67,102,178,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7796.420841172561,Not Visible in California,2m 58s
+09585,2035-03-09,15:05:54,81,435,140,A,n-,-0.4368,0.9919,-29,-155,64,31,48,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8203.030764777674,Not Visible in California,0m 48s
+09586,2035-09-01,18:56:46,81,441,145,T,p-,0.3727,1.032,29,158,68,116,174,Total,The Moon completely covers the Sun.,7519.273571550533,Not Visible in California,2m 54s
+09587,2036-02-26,20:46:49,82,447,150,P,t-,-1.1942,0.6286,-72,-131,0,NA,NA,Partial,The Moon partially covers the Sun.,12129.539660993256,Not Visible in California,NA
+09588,2036-07-23,03:32:06,82,452,117,P,-t,-1.425,0.1991,-69,4,0,NA,NA,Partial,The Moon partially covers the Sun.,15101.427537131927,Not Visible in California,NA
+09589,2036-08-21,10:25:45,82,453,155,P,t-,1.0825,0.8622,71,47,0,NA,NA,Partial,The Moon partially covers the Sun.,7981.835685030347,Not Visible in California,NA
+09590,2037-01-16,01:48:55,82,458,122,P,-t,1.1477,0.7049,69,21,0,NA,NA,Partial,The Moon partially covers the Sun.,7812.707404980817,Not Visible in California,NA
+09591,2037-07-12,19:40:36,83,464,127,T,-p,-0.7246,1.0413,-25,139,43,201,238,Total,The Moon completely covers the Sun.,12620.79302686922,Not Visible in California,3m 58s
+09592,2038-01-05,05:47:11,83,470,132,A,-n,0.4169,0.9728,2,-25,65,107,198,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10267.33303628734,Not Visible in California,3m 18s
+09593,2038-07-02,06:32:55,84,476,137,A,nn,0.0398,0.9911,25,-22,88,31,60,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8988.232316702866,Not Visible in California,1m 0s
+09594,2038-12-25,17:00:10,84,482,142,T,n-,-0.2881,1.0268,-40,164,73,95,138,Total,The Moon completely covers the Sun.,11567.871897958888,Not Visible in California,2m 18s
+09595,2039-06-21,10:12:54,84,488,147,A,p-,0.8312,0.9454,79,-102,33,365,245,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",4760.900409633503,Partially Visible in California,4m 5s
+09596,2039-12-15,08:23:46,85,494,152,T,p-,-0.9458,1.0356,-81,173,18,380,111,Total,The Moon completely covers the Sun.,13668.825783022956,Not Visible in California,1m 51s
+09597,2040-05-10,20:43:02,85,499,119,P,-t,-1.2529,0.5306,-63,174,0,NA,NA,Partial,The Moon partially covers the Sun.,12552.673606308294,Not Visible in California,NA
+09598,2040-11-04,11:09:02,85,505,124,P,-t,1.0993,0.8074,62,-53,0,NA,NA,Partial,The Moon partially covers the Sun.,5251.597251021481,Partially Visible in California,NA
+09599,2041-04-30,04:52:21,86,511,129,T,-p,-0.4492,1.0189,-10,12,63,72,111,Total,The Moon completely covers the Sun.,14315.236801495212,Not Visible in California,1m 51s
+09600,2041-10-24,18:36:22,86,517,134,A,-p,0.4133,0.9467,10,163,66,213,367,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8242.000385685657,Not Visible in California,6m 7s
+09601,2042-04-19,19:17:30,86,523,139,T,n-,0.2956,1.0614,27,137,73,210,291,Total,The Moon completely covers the Sun.,9342.357799497182,Not Visible in California,4m 51s
+09602,2042-10-13,19:00:42,87,529,144,A,n-,-0.303,0.93,-24,138,72,273,464,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",12649.603840500415,Not Visible in California,7m 44s
+09603,2043-04-09,11:57:49,87,535,149,T+,t-,1.0031,1.0095,61,152,0,NA,NA,Total,The Moon completely covers the Sun.,6424.168583613116,Not Visible in California,NA
+09604,2043-10-02,20:01:49,88,541,154,A-,t-,-1.0102,0.9497,-61,35,0,NA,NA,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",16780.956832190142,Not Visible in California,NA
+09605,2044-02-28,12:24:39,88,546,121,As,-t,-0.9954,0.96,-62,-26,4,NA,147,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",13725.850363035499,Not Visible in California,2m 27s
+09606,2044-08-22,18:17:02,88,552,126,T,-t,0.9613,1.0364,64,-120,15,453,124,Total,The Moon completely covers the Sun.,3027.1672999986195,Partially Visible in California,2m 4s
+09607,2045-02-16,15:56:07,89,558,131,A,-n,-0.3125,0.9285,-28,-166,72,281,467,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8692.23171279202,Not Visible in California,7m 47s
+09608,2045-08-12,10:42:39,89,564,136,T,-n,0.2116,1.0774,26,-79,78,256,366,Total,The Moon completely covers the Sun.,3986.429584098977,Partially Visible in California,6m 6s
+09609,2046-02-05,15:06:26,90,570,141,A,p-,0.3765,0.9232,5,-171,68,310,582,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",6312.565093388784,Not Visible in California,9m 42s
+09610,2046-08-02,03:21:13,90,576,146,T,p-,-0.535,1.0531,-13,15,58,206,291,Total,The Moon completely covers the Sun.,14779.320099198621,Not Visible in California,4m 51s
+09611,2047-01-25,17:33:18,90,582,151,P,t-,1.045,0.8907,63,112,0,NA,NA,Partial,The Moon partially covers the Sun.,8021.598307507522,Not Visible in California,NA
+09612,2047-06-23,03:52:31,91,587,118,P,-t,1.3766,0.3129,66,-178,0,NA,NA,Partial,The Moon partially covers the Sun.,4916.01755534142,Partially Visible in California,NA
+09613,2047-07-22,15:36:17,91,588,156,P,t-,-1.3477,0.3604,-63,160,0,NA,NA,Partial,The Moon partially covers the Sun.,13153.44528173285,Not Visible in California,NA
+09614,2047-12-16,15:50:12,91,593,123,P,-t,-1.0661,0.8816,-66,-7,0,NA,NA,Partial,The Moon partially covers the Sun.,14695.468127172868,Not Visible in California,NA
+09615,2048-06-11,05:58:53,92,599,128,A,-p,0.6468,0.9441,64,-12,49,272,298,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7154.328508990168,Not Visible in California,4m 58s
+09616,2048-12-05,07:35:27,92,605,133,T,-n,-0.3973,1.044,-46,-56,66,160,208,Total,The Moon completely covers the Sun.,11171.679059806394,Not Visible in California,3m 28s
+09617,2049-05-31,06:59:59,92,611,138,A,nn,-0.1187,0.9631,15,-30,83,134,285,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8965.577095731202,Not Visible in California,4m 45s
+09618,2049-11-24,21:33:48,93,617,143,H,n-,0.2943,1.0057,-4,95,73,21,38,Hybrid,A rare eclipse that appears total in some locations and annular in others.,14955.591051599913,Not Visible in California,0m 38s
+09619,2050-05-20,13:42:50,94,623,148,H,t-,-0.8688,1.0038,-40,-124,29,27,21,Hybrid,A rare eclipse that appears total in some locations and annular in others.,8550.188386549145,Not Visible in California,0m 21s
+09620,2050-11-14,05:30:53,95,629,153,P,t-,1.0447,0.8874,70,1,0,NA,NA,Partial,The Moon partially covers the Sun.,7218.55584104647,Not Visible in California,NA
+09621,2051-04-10,19:10:39,95,634,120,P,-t,1.0169,0.9849,72,32,0,NA,NA,Partial,The Moon partially covers the Sun.,7715.370004280809,Not Visible in California,NA
+09622,2051-10-04,14:02:14,96,640,125,P,-t,-1.2094,0.6024,-72,118,0,NA,NA,Partial,The Moon partially covers the Sun.,14971.756844927735,Not Visible in California,NA
+09623,2052-03-30,11:31:53,97,646,130,T,-n,0.3238,1.0466,22,-103,71,164,248,Total,The Moon completely covers the Sun.,2280.0880903830907,Partially Visible in California,4m 8s
+09624,2052-09-22,16:39:10,98,652,135,A,-p,-0.448,0.9734,-26,175,63,106,171,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",9783.648946521083,Not Visible in California,2m 51s
+09625,2053-03-20,00:08:19,99,658,140,A,n-,-0.4089,0.9919,-23,83,66,31,50,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",17377.279712363004,Not Visible in California,0m 50s
+09626,2053-09-12,02:34:09,100,664,145,T,n-,0.314,1.0328,21,42,72,116,184,Total,The Moon completely covers the Sun.,13300.911525981342,Not Visible in California,3m 4s
+09627,2054-03-09,05:33:40,101,670,150,P,t-,-1.1711,0.6678,-72,98,0,NA,NA,Partial,The Moon partially covers the Sun.,15566.8014289136,Not Visible in California,NA
+09628,2054-08-03,11:04:02,102,675,117,Pe,-t,-1.4941,0.0655,-70,-121,0,NA,NA,Partial,The Moon partially covers the Sun.,11873.90015563496,Not Visible in California,NA
+09629,2054-09-01,18:09:34,102,676,155,P,t-,1.0215,0.9793,72,-82,0,NA,NA,Partial,The Moon partially covers the Sun.,4448.285367106969,Partially Visible in California,NA
+09630,2055-01-27,09:54:05,103,681,122,P,-t,1.155,0.6932,70,-112,0,NA,NA,Partial,The Moon partially covers the Sun.,3720.660149988762,Partially Visible in California,NA
+09631,2055-07-24,02:57:50,104,687,127,T,-p,-0.8012,1.0359,-33,26,37,202,197,Total,The Moon completely covers the Sun.,16850.335259985546,Not Visible in California,3m 17s
+09632,2056-01-16,14:16:45,105,693,132,A,-n,0.4199,0.9759,4,-154,65,95,172,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5071.070154330392,Not Visible in California,2m 52s
+09633,2056-07-12,13:21:59,106,699,137,A,nn,-0.0426,0.9878,19,-124,88,43,86,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",2026.7528556105353,Partially Visible in California,1m 26s
+09634,2057-01-05,01:47:52,107,705,142,T,n-,-0.2837,1.0287,-39,35,73,102,149,Total,The Moon completely covers the Sun.,17764.043136755947,Not Visible in California,2m 29s
+09635,2057-07-01,16:40:15,108,711,147,A,p-,0.7455,0.9464,71,-176,41,298,262,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",4980.218400682093,Partially Visible in California,4m 22s
+09636,2057-12-25,17:14:35,109,717,152,T,p-,-0.9405,1.0348,-85,22,19,355,110,Total,The Moon completely covers the Sun.,14524.053287159008,Not Visible in California,1m 50s
+09637,2058-05-22,03:39:25,110,722,119,P,-t,-1.3194,0.4141,-64,61,0,NA,NA,Partial,The Moon partially covers the Sun.,16988.041787769504,Not Visible in California,NA
+09638,2058-06-20,17:19:35,110,723,157,Pb,t-,1.4869,0.126,66,10,0,NA,NA,Partial,The Moon partially covers the Sun.,7796.674196862364,Not Visible in California,NA
+09639,2058-11-15,19:23:07,111,728,124,P,-t,1.1224,0.7644,63,174,0,NA,NA,Partial,The Moon partially covers the Sun.,5261.061873407161,Partially Visible in California,NA
+09640,2059-05-11,12:22:16,112,734,129,T,-p,-0.508,1.0242,-11,-100,59,95,143,Total,The Moon completely covers the Sun.,5687.660894067798,Not Visible in California,2m 23s
+09641,2059-11-05,01:18:15,113,740,134,A,-p,0.4454,0.9417,9,47,63,238,420,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14730.93346943436,Not Visible in California,7m 0s
+09642,2060-04-30,03:10:00,114,746,139,T,n-,0.2422,1.066,28,21,76,222,315,Total,The Moon completely covers the Sun.,11709.458104629837,Not Visible in California,5m 15s
+09643,2060-10-24,02:24:10,115,752,144,A,nn,-0.2625,0.9277,-26,28,75,281,486,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",16718.12861367148,Not Visible in California,8m 6s
+09644,2061-04-19,19:56:49,116,758,149,T,t-,0.9578,1.0475,65,59,16,559,157,Total,The Moon completely covers the Sun.,8697.016388438844,Not Visible in California,2m 37s
+09645,2061-10-13,03:32:10,117,764,154,A,t-,-0.9639,0.9469,-62,-54,15,743,221,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",12437.390410976834,Not Visible in California,3m 41s
+09646,2062-03-10,20:26:16,118,769,121,P,-t,-1.0238,0.9331,-61,-147,0,NA,NA,Partial,The Moon partially covers the Sun.,11157.192939896584,Not Visible in California,NA
+09647,2062-09-03,01:54:27,119,775,126,P,-t,1.0191,0.9749,61,150,0,NA,NA,Partial,The Moon partially covers the Sun.,6525.737071053403,Partially Visible in California,NA
+09648,2063-02-27,23:43:30,120,781,131,A,-p,-0.336,0.9293,-25,78,70,280,461,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",17905.138760274356,Not Visible in California,7m 41s
+09649,2063-08-23,18:22:11,121,787,136,T,-n,0.2771,1.075,26,168,74,252,349,Total,The Moon completely covers the Sun.,6832.716333155905,Not Visible in California,5m 49s
+09650,2064-02-16,23:00:23,122,793,141,A,p-,0.3597,0.9262,7,70,69,295,536,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",15049.269847070671,Not Visible in California,8m 56s
+09651,2064-08-12,10:46:06,123,799,146,T,p-,-0.4652,1.0495,-11,-96,62,184,268,Total,The Moon completely covers the Sun.,5849.952666144128,Not Visible in California,4m 28s
+09652,2065-02-05,01:52:26,124,805,151,P,t-,1.0336,0.9123,62,-22,0,NA,NA,Partial,The Moon partially covers the Sun.,6817.207635520911,Partially Visible in California,NA
+09653,2065-07-03,10:33:52,125,810,118,P,-t,1.4619,0.1638,65,72,0,NA,NA,Partial,The Moon partially covers the Sun.,8654.22665793637,Not Visible in California,NA
+09654,2065-08-01,22:34:17,125,811,156,P,t-,-1.2759,0.4903,-63,47,0,NA,NA,Partial,The Moon partially covers the Sun.,16956.00137997942,Not Visible in California,NA
+09655,2065-12-27,00:39:56,126,816,123,P,-t,-1.0688,0.8769,-65,-149,0,NA,NA,Partial,The Moon partially covers the Sun.,11605.850456737879,Not Visible in California,NA
+09656,2066-06-22,12:25:48,127,822,128,A,-p,0.733,0.9435,70,-96,43,309,280,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",3948.7720239465352,Partially Visible in California,4m 40s
+09657,2066-12-16,16:23:40,128,828,133,T,-n,-0.4043,1.0416,-47,176,66,152,194,Total,The Moon completely covers the Sun.,11312.610899629362,Not Visible in California,3m 14s
+09658,2067-06-11,13:42:26,129,834,138,A,nn,-0.0387,0.967,21,-130,88,119,245,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",2031.2470565969122,Partially Visible in California,4m 5s
+09659,2067-12-06,06:03:43,130,840,143,H,n-,0.2845,1.0011,-6,-32,74,4,8,Hybrid,A rare eclipse that appears total in some locations and annular in others.,10177.650839928545,Not Visible in California,0m 8s
+09660,2068-05-30,20:56:39,131,846,148,T,p-,-0.797,1.011,-31,123,37,63,66,Total,The Moon completely covers the Sun.,14319.030521826138,Not Visible in California,1m 6s
+09661,2068-11-24,13:32:30,132,852,153,P,t-,1.0299,0.9109,69,-131,0,NA,NA,Partial,The Moon partially covers the Sun.,3652.1299190940636,Partially Visible in California,NA
+09662,2069-04-21,03:11:09,133,857,120,P,-t,1.0624,0.8992,71,-101,0,NA,NA,Partial,The Moon partially covers the Sun.,3954.0530002617734,Partially Visible in California,NA
+09663,2069-05-20,10:53:18,133,858,158,Pb,t-,-1.4852,0.0879,-69,-70,0,NA,NA,Partial,The Moon partially covers the Sun.,12437.474657190525,Not Visible in California,NA
+09664,2069-10-14,21:19:56,134,863,125,P,-t,-1.2524,0.5298,-72,-5,0,NA,NA,Partial,The Moon partially covers the Sun.,14700.089767242513,Not Visible in California,NA
+09665,2070-04-10,19:36:09,135,869,130,T,-n,0.3652,1.0472,29,135,68,168,244,Total,The Moon completely covers the Sun.,9356.000983979766,Not Visible in California,4m 4s
+09666,2070-10-04,00:08:57,136,875,135,A,-p,-0.495,0.9731,-33,60,60,110,164,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",19591.620542444707,Not Visible in California,2m 44s
+09667,2071-03-31,08:01:06,138,881,140,A,n-,-0.3739,0.9919,-17,-37,68,31,52,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10479.319819837601,Not Visible in California,0m 52s
+09668,2071-09-23,10:20:28,139,887,145,T,n-,0.262,1.0333,14,-77,75,116,191,Total,The Moon completely covers the Sun.,4899.519212443101,Partially Visible in California,3m 11s
+09669,2072-03-19,13:10:31,140,893,150,P,t-,-1.1405,0.7199,-72,-30,0,NA,NA,Partial,The Moon partially covers the Sun.,13847.603923944478,Not Visible in California,NA
+09670,2072-09-12,01:59:20,141,899,155,T,t-,0.9655,1.0558,70,102,14,732,193,Total,The Moon completely covers the Sun.,7680.54567922034,Not Visible in California,3m 13s
+09671,2073-02-06,17:55:59,142,904,122,P,-t,1.1651,0.6768,70,115,0,NA,NA,Partial,The Moon partially covers the Sun.,7363.413359697477,Not Visible in California,NA
+09672,2073-08-03,10:15:23,143,910,127,T,-t,-0.8763,1.0294,-43,-89,28,206,149,Total,The Moon completely covers the Sun.,9389.686785562044,Not Visible in California,2m 29s
+09673,2074-01-26,22:44:15,144,916,132,A,-n,0.4251,0.9798,7,79,65,79,141,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14782.852438257361,Not Visible in California,2m 21s
+09674,2074-07-23,20:10:32,145,922,137,A,nn,-0.1242,0.9838,13,134,83,58,117,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10569.194187592973,Not Visible in California,1m 57s
+09675,2075-01-16,10:36:04,146,928,142,T,n-,-0.2799,1.0311,-37,-94,74,110,162,Total,The Moon completely covers the Sun.,8611.109391498605,Not Visible in California,2m 42s
+09676,2075-07-12,23:05:44,147,934,147,A,p-,0.6583,0.9467,63,95,49,262,285,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8506.093231341461,Not Visible in California,4m 45s
+09677,2076-01-06,02:07:27,148,940,152,T,p-,-0.9373,1.0342,-87,-174,20,340,109,Total,The Moon completely covers the Sun.,13899.597737873786,Not Visible in California,1m 49s
+09678,2076-06-01,10:31:22,149,945,119,P,-t,-1.3897,0.2897,-64,-51,0,NA,NA,Partial,The Moon partially covers the Sun.,12691.829532189959,Not Visible in California,NA
+09679,2076-06-30,23:50:43,149,946,157,P,t-,1.4005,0.2746,67,-98,0,NA,NA,Partial,The Moon partially covers the Sun.,3624.724978232357,Partially Visible in California,NA
+09680,2076-11-26,03:43:01,150,951,124,P,-t,1.1401,0.7315,64,40,0,NA,NA,Partial,The Moon partially covers the Sun.,8663.370233840415,Not Visible in California,NA
+09681,2077-05-21,19:46:05,151,957,129,T,-p,-0.5725,1.029,-13,148,55,119,174,Total,The Moon completely covers the Sun.,11094.876550101882,Not Visible in California,2m 54s
+09682,2077-11-15,09:07:56,152,963,134,A,-p,0.4705,0.9371,8,-71,62,262,474,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5829.852659156965,Not Visible in California,7m 54s
+09683,2078-05-11,10:56:55,153,969,139,T,n-,0.1838,1.0701,28,-94,79,232,340,Total,The Moon completely covers the Sun.,2568.4683973853575,Partially Visible in California,5m 40s
+09684,2078-11-04,09:55:44,154,975,144,A,nn,-0.2285,0.9255,-28,-83,77,287,509,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8146.261600949354,Not Visible in California,8m 29s
+09685,2079-05-01,03:50:13,155,981,149,T,p-,0.9081,1.0512,66,-46,24,406,175,Total,The Moon completely covers the Sun.,5583.459220846886,Not Visible in California,2m 55s
+09686,2079-10-24,11:11:21,156,987,154,A,t-,-0.9243,0.9484,-63,-161,22,495,219,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",11692.94816891176,Not Visible in California,3m 39s
+09687,2080-03-21,05:20:15,157,992,121,P,-t,-1.0578,0.8734,-61,86,0,NA,NA,Partial,The Moon partially covers the Sun.,16787.24138041028,Not Visible in California,NA
+09688,2080-09-13,09:38:09,158,998,126,P,-t,1.0723,0.8743,61,26,0,NA,NA,Partial,The Moon partially covers the Sun.,8698.998553060093,Not Visible in California,NA
+09689,2081-03-10,08:23:31,159,1004,131,A,-p,-0.3653,0.9304,-22,-37,68,277,456,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10814.331418447298,Not Visible in California,7m 36s
+09690,2081-09-03,02:07:31,160,1010,136,T,-n,0.3378,1.072,25,54,70,247,333,Total,The Moon completely covers the Sun.,13111.10687515834,Not Visible in California,5m 33s
+09691,2082-02-27,06:47:00,162,1016,141,A,p-,0.3361,0.9298,9,-47,70,277,492,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7847.202492797258,Not Visible in California,8m 12s
+09692,2082-08-23,18:16:21,163,1022,146,T,n-,-0.4004,1.0452,-10,152,66,163,241,Total,The Moon completely covers the Sun.,10546.20620642657,Not Visible in California,4m 1s
+09693,2083-02-16,10:06:36,164,1028,151,P,t-,1.017,0.9433,62,-154,0,NA,NA,Partial,The Moon partially covers the Sun.,3674.6191390829326,Partially Visible in California,NA
+09694,2083-07-14,17:14:23,165,1033,118,Pe,-t,1.5465,0.0168,64,-38,0,NA,NA,Partial,The Moon partially covers the Sun.,5982.946299054693,Partially Visible in California,NA
+09695,2083-08-13,05:34:41,165,1034,156,P,t-,-1.2064,0.6146,-62,-67,0,NA,NA,Partial,The Moon partially covers the Sun.,11944.069896021168,Not Visible in California,NA
+09696,2084-01-07,09:30:24,166,1039,123,P,-t,-1.0715,0.8723,-64,69,0,NA,NA,Partial,The Moon partially covers the Sun.,16935.9037765868,Not Visible in California,NA
+09697,2084-07-02,18:50:26,167,1045,128,A,-p,0.8208,0.9421,75,-169,35,377,265,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",4952.938967522665,Partially Visible in California,4m 25s
+09698,2084-12-27,01:13:48,168,1051,133,T,-n,-0.4094,1.0396,-47,48,66,146,184,Total,The Moon completely covers the Sun.,18477.284909085432,Not Visible in California,3m 4s
+09699,2085-06-21,20:21:16,169,1057,138,A,nn,0.0452,0.9704,26,131,87,106,209,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",9872.575186439935,Not Visible in California,3m 29s
+09700,2085-12-16,14:37:48,170,1063,143,A,n-,0.2786,0.9971,-7,-161,74,10,19,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",6510.945354965624,Not Visible in California,0m 19s
+09701,2086-06-11,04:07:14,171,1069,148,T,p-,-0.7215,1.0174,-23,12,44,86,108,Total,The Moon completely covers the Sun.,15144.077962928483,Not Visible in California,1m 48s
+09702,2086-12-05,21:38:55,172,1075,153,P,p-,1.0194,0.9271,67,96,0,NA,NA,Partial,The Moon partially covers the Sun.,8092.511467925534,Not Visible in California,NA
+09703,2087-05-02,11:04:42,173,1080,120,P,-t,1.1139,0.8011,70,128,0,NA,NA,Partial,The Moon partially covers the Sun.,6980.757621887792,Partially Visible in California,NA
+09704,2087-05-31,18:27:14,173,1081,158,P,t-,-1.4186,0.2146,-68,165,0,NA,NA,Partial,The Moon partially covers the Sun.,13200.229067030787,Not Visible in California,NA
+09705,2087-10-26,04:46:57,174,1086,125,P,-t,-1.2882,0.4696,-71,-131,0,NA,NA,Partial,The Moon partially covers the Sun.,12019.956876526418,Not Visible in California,NA
+09706,2088-04-21,03:31:49,175,1092,130,T,-p,0.4135,1.0474,36,15,65,173,238,Total,The Moon completely covers the Sun.,10655.953627852978,Not Visible in California,3m 58s
+09707,2088-10-14,07:48:05,177,1098,135,A,-p,-0.5349,0.9727,-40,-56,57,115,158,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10711.633642887293,Not Visible in California,2m 38s
+09708,2089-04-10,15:44:42,178,1104,140,A,n-,-0.3319,0.9919,-10,-155,71,30,53,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",6391.874472541266,Not Visible in California,0m 53s
+09709,2089-10-03,18:15:23,179,1110,145,T,n-,0.2167,1.0333,7,163,77,115,194,Total,The Moon completely covers the Sun.,8437.690018044039,Not Visible in California,3m 14s
+09710,2090-03-30,20:38:08,180,1116,150,P,t-,-1.1028,0.7843,-72,-156,0,NA,NA,Partial,The Moon partially covers the Sun.,12426.775221736532,Not Visible in California,NA
+09711,2090-09-23,09:56:36,181,1122,155,T,t-,0.9157,1.0562,61,-40,23,463,216,Total,The Moon completely covers the Sun.,5947.81028965076,Not Visible in California,3m 36s
+09712,2091-02-18,01:54:40,182,1127,122,P,-t,1.1779,0.6558,71,-18,0,NA,NA,Partial,The Moon partially covers the Sun.,6564.656072617112,Partially Visible in California,NA
+09713,2091-08-14,17:34:43,183,1133,127,T,-t,-0.949,1.0216,-56,150,18,236,98,Total,The Moon completely covers the Sun.,13350.10175287419,Not Visible in California,1m 38s
+09714,2092-02-07,07:10:20,184,1139,132,A,-n,0.4322,0.984,10,-49,64,62,108,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7604.288762292459,Not Visible in California,1m 48s
+09715,2092-08-03,02:59:33,185,1145,137,A,nn,-0.2044,0.9794,6,30,78,75,151,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",14294.007187804862,Not Visible in California,2m 31s
+09716,2093-01-26,19:22:16,186,1151,142,T,n-,-0.2737,1.034,-34,136,74,119,178,Total,The Moon completely covers the Sun.,13357.96387112297,Not Visible in California,2m 58s
+09717,2093-07-23,05:32:04,187,1157,147,A,p-,0.5717,0.9463,55,1,55,241,311,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",8346.064152964393,Not Visible in California,5m 11s
+09718,2094-01-16,10:59:03,189,1163,152,T,p-,-0.9333,1.0342,-85,-11,21,329,111,Total,The Moon completely covers the Sun.,14255.912267280813,Not Visible in California,1m 51s
+09719,2094-06-12,17:22:11,190,1168,119,P,-t,-1.4613,0.1618,-65,-164,0,NA,NA,Partial,The Moon partially covers the Sun.,11958.96195879392,Not Visible in California,NA
+09720,2094-07-12,06:24:35,190,1169,157,P,t-,1.315,0.4224,68,153,0,NA,NA,Partial,The Moon partially covers the Sun.,6160.676912678811,Partially Visible in California,NA
+09721,2094-12-07,12:05:56,191,1174,124,P,-t,1.1547,0.7046,65,-95,0,NA,NA,Partial,The Moon partially covers the Sun.,3524.4418929037165,Partially Visible in California,NA
+09722,2095-06-02,03:07:40,192,1180,129,T,-p,-0.6396,1.0332,-17,37,50,145,198,Total,The Moon completely covers the Sun.,16822.410071237195,Not Visible in California,3m 18s
+09723,2095-11-26,17:02:57,193,1186,134,A,-p,0.4903,0.933,7,170,61,285,527,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7815.861408664408,Not Visible in California,8m 47s
+09724,2096-05-21,18:37:14,194,1192,139,T,nn,0.1196,1.0737,27,153,83,241,366,Total,The Moon completely covers the Sun.,8053.512662825666,Not Visible in California,6m 6s
+09725,2096-11-14,16:36:15,195,1198,144,A,nn,-0.2018,0.9237,-30,163,78,294,533,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",10968.08534544385,Not Visible in California,8m 53s
+09726,2097-05-11,11:34:31,196,1204,149,T,p-,0.8516,1.0538,67,-150,31,339,190,Total,The Moon completely covers the Sun.,3876.246237213132,Partially Visible in California,3m 10s
+09727,2097-11-03,18:01:25,197,1210,154,A,t-,-0.8926,0.9494,-66,87,26,411,216,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",16346.19802029782,Not Visible in California,3m 36s
+09728,2098-04-01,13:02:31,198,1215,121,P,-t,-1.1005,0.7984,-61,-38,0,NA,NA,Partial,The Moon partially covers the Sun.,13093.862009882661,Not Visible in California,NA
+09729,2098-09-24,17:31:16,199,1221,126,P,-t,1.1184,0.7871,61,-101,0,NA,NA,Partial,The Moon partially covers the Sun.,2987.242154835881,Partially Visible in California,NA
+09730,2098-10-24,03:36:11,200,1222,164,Pb,t-,-1.5407,0.0056,-62,-95,0,NA,NA,Partial,The Moon partially covers the Sun.,11201.082377534596,Not Visible in California,NA
+09731,2099-03-21,15:54:32,201,1227,131,A,-p,-0.4016,0.9318,-20,-149,66,275,452,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",7035.4151615714745,Not Visible in California,7m 32s
+09732,2099-09-14,09:57:53,202,1233,136,T,-n,0.3942,1.0684,23,-63,67,241,318,Total,The Moon completely covers the Sun.,5568.3330486612285,Not Visible in California,5m 18s
+09733,2100-03-10,14:28:11,203,1239,141,A,n-,0.3077,0.9338,12,-162,72,257,449,Annular,"The Moon appears smaller than the Sun, creating a ring of light.",5055.468899270627,Not Visible in California,7m 29s
+09734,2100-09-04,01:49:20,204,1245,146,T,n-,-0.3384,1.0402,-10,39,70,142,212,Total,The Moon completely covers the Sun.,16331.466314484207,Not Visible in California,3m 32s
