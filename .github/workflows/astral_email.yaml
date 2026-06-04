@@ -32,13 +32,26 @@ jobs:
         run: Rscript R/Astral_Report.R
         working-directory: ${{ github.workspace }}
 
+      - name: Debug email body
+        run: |
+          echo "----- EMAIL BODY -----"
+          cat email_body.txt
+          echo "----------------------"
+
+      - name: Check files
+        run: |
+          ls -lah
+          wc -l email_body.txt
+          wc -l email_subject.txt
+    
       - name: Read Subject and Body
         id: read_email_content
         run: |
           echo "email_subject=$(cat email_subject.txt)" >> $GITHUB_OUTPUT
-          echo "email_body<<EOF" >> $GITHUB_OUTPUT
+      
+          echo "email_body<<ASTRALREPORTEND" >> $GITHUB_OUTPUT
           cat email_body.txt >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "ASTRALREPORTEND" >> $GITHUB_OUTPUT
 
       - name: Send Email
         uses: dawidd6/action-send-mail@v3
