@@ -3,11 +3,12 @@ name: Send Email
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 13 * * *'
+    - cron: '0 10 * * *'
 
 jobs:
   send_email:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -25,15 +26,19 @@ jobs:
             any::readr
             any::lubridate
             any::glue
+            any::gmailr
 
-      - name: Run R Script and Capture Email Content
-        run: Rscript -e 'source("R/email_message.R")'
+      - name: Run R Script
+        run: Rscript R/Astral_Report.R
+        working-directory: ${{ github.workspace }}
 
       - name: Read Subject and Body
         id: read_email_content
         run: |
-          echo "email_subject=$(< email_subject.txt)" >> $GITHUB_OUTPUT
-          echo "email_body=$(< email_body.txt)" >> $GITHUB_OUTPUT
+          echo "email_subject=$(cat email_subject.txt)" >> $GITHUB_OUTPUT
+          echo "email_body<<EOF" >> $GITHUB_OUTPUT
+          cat email_body.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Send Email
         uses: dawidd6/action-send-mail@v3
@@ -44,6 +49,6 @@ jobs:
           username: ${{ secrets.EMAIL_FROM }}
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: ${{ steps.read_email_content.outputs.email_subject }}
-          to: ${{ secrets.EMAIL_TO }}
+          to: ${{ secrets.EMAIL_FROM }}
           from: ${{ secrets.EMAIL_FROM }}
-          html_body: file://email_body.txt
+          html_body: ${{ steps.read_email_content.outputs.email_body }}
