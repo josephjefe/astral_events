@@ -2,7 +2,6 @@ library(dplyr)
 library(lubridate)
 library(readr)
 library(glue)
-library(gmailr)
 
 # =========================================
 # DATA
@@ -247,16 +246,19 @@ subject <- glue(
 # OUTPUT
 # =========================================
 
-cat(gsub("<br>", "\n", message))
-
 cat(subject, file = "email_subject.txt", sep = "")
 cat(message, file = "email_body.txt", sep = "")
 
-astral_email <-
-  gm_mime() |>
-  gm_to("mmrojas1986@gmail.com") |>
-  gm_from("hefnerjoseph87@gmail.com") |>
-  gm_subject(subject) |>
-  gm_html_body(message)
+# This part is only for debugging in RStudio.
+# You do not need it for GitHub Actions
 
-gm_send_message(astral_email)
+# library(gmailr)
+#
+# astral_email <-
+#   gm_mime() |>
+#   gm_to("mmrojas1986@gmail.com") |>
+#   gm_from("hefnerjoseph87@gmail.com") |>
+#   gm_subject(subject) |>
+#   gm_html_body(message)
+#
+# gm_send_message(astral_email)
