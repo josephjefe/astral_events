@@ -107,7 +107,7 @@ build_season <- function(season_data, today) {
 
   glue(
     "<b>Next Season Change:</b> {format(next_event$event_la_date, '%b %d, %Y')}<br>",
-    "{next_event$event}",
+    "{next_event$event}<br>",
     "{next_event$event_desc}"
   )
 }
@@ -246,8 +246,8 @@ subject <- glue(
 # OUTPUT
 # =========================================
 
-cat(subject, file = "email_subject.txt", sep = "")
-cat(message, file = "email_body.txt", sep = "")
+writeLines(subject, "email_subject.txt")
+writeLines(message, "email_body.txt")
 
 # This part is only for debugging in RStudio.
 # You do not need it for GitHub Actions
