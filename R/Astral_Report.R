@@ -159,7 +159,7 @@ build_eclipse <- function(eclipse_data, today) {
     return(glue(
       "<b>Eclipse Today</b><br>",
       "{eclipse_today$eclipse_type_long} Solar Eclipse<br>",
-      "--{eclipse_today$eclipse_desc}<br>",
+      "  └► {eclipse_today$eclipse_desc}<br>",
       "Visibility: {eclipse_today$eclipse_visibility_ca}",
       "{duration}"
     ))
@@ -179,7 +179,7 @@ build_eclipse <- function(eclipse_data, today) {
   glue(
     "<b>Next Eclipse:</b> {format(next_eclipse$date_la, '%b %d, %Y')}<br>",
     "{next_eclipse$eclipse_type_long} Solar Eclipse<br>",
-    "--{next_eclipse$eclipse_desc}<br>",
+    "  └► {next_eclipse$eclipse_desc}<br>",
     "Visibility: {next_eclipse$eclipse_visibility_ca}",
     "{duration}"
   )
