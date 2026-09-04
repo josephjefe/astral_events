@@ -190,31 +190,27 @@ build_eclipse <- function(eclipse_data, today) {
 # =========================================
 
 build_meteor <- function(meteor_data, today) {
-  active <- meteor_data |>
-    filter(today >= active_start & today <= active_end) |>
+  relevant_shower <- meteor_data |>
+    filter(
+      (today >= active_start & today <= active_end) |
+        (peak_date >= today & peak_date <= today + days(14))
+    ) |>
+    arrange(desc(zhr)) |>
     slice(1)
 
-  if (nrow(active) > 0) {
-    return(glue(
-      "<b>Meteor Shower Active:</b> {active$shower_name}<br>",
-      "Active: {active$active_date_label}<br>",
-      "Peak Date: {format(active$peak_date, '%b %d')}<br>",
-      "Activity Rate: {active$intensity}<br>",
-      "Peak Activity: {active$zhr} meteors/hr"
-    ))
+  if (nrow(relevant_shower) == 0) {
+    relevant_shower <- meteor_data |>
+      filter(peak_date > today) |>
+      arrange(peak_date) |>
+      slice(1)
   }
 
-  next_shower <- meteor_data |>
-    filter(active_start > today) |>
-    arrange(active_start) |>
-    slice(1)
-
   glue(
-    "<b>Next Meteor Shower:</b> {next_shower$shower_name}<br>",
-    "Active: {next_shower$active_date_label}<br>",
-    "Peak Date: {format(next_shower$peak_date, '%b %d')}<br>",
-    "Activity Rate: {next_shower$intensity}<br>",
-    "Peak Activity: {next_shower$zhr} meteors/hr"
+    "<b>Meteor Shower:</b> {relevant_shower$shower_name}<br>",
+    "Active: {relevant_shower$active_date_label}<br>",
+    "Peak Date: {format(relevant_shower$peak_date, '%b %d')}<br>",
+    "Activity Rate: {relevant_shower$intensity}<br>",
+    "Peak Activity: {relevant_shower$zhr} meteors/hr"
   )
 }
 
